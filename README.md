@@ -2,7 +2,7 @@
 
 ## Hello World <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
-### Hello! I'm Agim a Full Stack Developer from Indonesia.
+### Hello! I'm Agim a Software Developer from Indonesia.
   
 ### 👨‍💻 Languages and Tools
 
